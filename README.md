@@ -11,5 +11,5 @@ Las consignas de este ejercicio son las siguientes:
 ## Configuración
 1.  Clonar el repositorio de acuerdo a la organización previamente sugerida.;
 2.  Correr el comando `npm i` en la raíz del proyecto.;
-3.  Para probar los endpoints puede ingresar al siguiente workspace de Postman: [Endpoints API](https://www.postman.com/red-eclipse-229019/workspace/techacademy-titamedia-juanrassa/collection/17910418-f1426f65-64cd-4e49-ae71-d4f9551565f9?action=share&creator=17910418)
+3.  Para probar los endpoints puede ingresar al siguiente workspace de Postman: [Endpoints API](https://www.postman.com/red-eclipse-229019/workspace/techacademy-titamedia-juanrassa/collection/17910418-f1426f65-64cd-4e49-ae71-d4f9551565f9?action=share&creator=17910418) Importante hacer el uso de este workspace en el app de escritorio de Postman.
   - Primero debe acceder por el endpoint de /crearUsuario en la carpeta de Usuarios para generar un token. Dicho token luego debera copiarse en el header de "access-token" en el resto de peticiones. También puede copiarse como variable de entorno del workspace "CursoAPI-TechAcademy" para mayor comodidad.
